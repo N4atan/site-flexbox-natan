@@ -73,13 +73,13 @@ body {
 
 
 #body-1 {
-  background-image: url("body1.jpg");
+  background-image: url("../images/body1.jpg");
 }
 
 
 /* Page - Especies */
 #body-2 {
-  background-image: url("body2.jpg");
+  background-image: url("../images/body2.jpg");
   backdrop-filter: blur(1px);
 }
 
