@@ -25,6 +25,4 @@
 
 ## Print do site (opcional)
 
-Você pode adicionar aqui uma imagem ou GIF mostrando o site funcionando.
-
-Exemplo:
+![**Home**]("https://github.com/user-attachments/assets/81fdc07c-2d19-4ab3-8dd3-c4d03d974046")
