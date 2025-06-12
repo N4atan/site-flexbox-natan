@@ -23,7 +23,7 @@
 - **CSS3** — Estilização com foco em responsividade, uso de `backdrop-filter`, hover animado e efeitos visuais.
 - **Fontes Monoespaçadas** — Para um estilo moderno e limpo.
 
-## Print do site (opcional)
+## Print do site 
 
 ![**Home**](https://github.com/user-attachments/assets/81fdc07c-2d19-4ab3-8dd3-c4d03d974046)
 ![**Espécies**](https://github.com/user-attachments/assets/1c769d83-820e-4a88-a665-90b5def0955c) 
